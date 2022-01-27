@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrTownsend
+- 👀 I’m interested in artificial intelligence, data science, and more. 
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Python and Red-DiscordBotV3 modules. 
+- 📫 How to reach me - Discord @ brrbrr#0732
