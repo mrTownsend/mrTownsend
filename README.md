@@ -2,4 +2,4 @@
 - 👀 I’m interested in artificial intelligence, data science, and more. 
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Python and Red-DiscordBotV3 modules. 
-- 📫 How to reach me - Discord @ brrbrr#0732
+- 📫 How to reach me - mr.caleb.townsend@gmail.com
